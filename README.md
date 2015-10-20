@@ -10,7 +10,7 @@
 1. [Java IO 之 InputStream源码](http://www.bysocket.com/?p=585)
 2. [字符编码笔记](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
 3. [深入分析 Java 中的中文编码问题](https://www.ibm.com/developerworks/cn/java/j-lo-chinesecoding/)
-
+4. [你应该知道的 RPC 原理] (http://blog.jobbole.com/92290)
 
 ### Mysql
 1. [MySQL索引及查询优化](http://blog.brucefeng.info/post/mysql-index-query)
