@@ -20,12 +20,13 @@
 
 ##前端
 
-### 语言	
+### 语言
 1. [jQuery编程的最佳实践](http://www.cnblogs.com/Wayou/p/jquery_best_practise.html)
 
 ### 插件
-1.[前端延迟加载使用的angular控件oclazyload](https://oclazyload.readme.io/)
+1. [前端延迟加载使用的angular控件oclazyload](https://oclazyload.readme.io/)
+2. [AngularJS - Input number with 2 decimal places](http://gsferreira.com/archive/2015/02/angularjs-input-number-with-two-decimal-places/)
+3. [AngularJS best practices: Be careful when using ng-repeat’s $index] (http://codeutopia.net/blog/2014/11/10/angularjs-best-practices-avoid-using-ng-repeats-index/comment-page-1/)
 
 ### 设计
 1. [好的UI设计](http://www.cnblogs.com/Wayou/p/goodui.html)
-
