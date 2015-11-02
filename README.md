@@ -5,6 +5,7 @@
 ## 后端
 ### 通用
 1. [REST API设计原则](http://www.haomou.net/2015/02/10/2015_server_rest/)
+2. [“NULL”：计算机科学中的最严重错误，造成十亿美元损失](https://linux.cn/article-6503-1.html)
 
 ### Java
 1. [Java IO 之 InputStream源码](http://www.bysocket.com/?p=585)
