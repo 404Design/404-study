@@ -16,7 +16,7 @@
 ### Mysql
 1. [MySQL索引及查询优化](http://blog.brucefeng.info/post/mysql-index-query)
 2. [Percona XtraBackup - Documentation](https://www.percona.com/doc/percona-xtrabackup/2.3/index.html)
-
+3. [How To Measure MySQL Query Performance with mysqlslap](https://www.digitalocean.com/community/tutorials/how-to-measure-mysql-query-performance-with-mysqlslap)
 ### GO
 1. [Go语言极速入门手册](https://github.com/coderzh/CodeTips/blob/master/GoTips.go)
 
